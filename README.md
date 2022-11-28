@@ -41,3 +41,13 @@ Course - Blockchain Technology and Applications  <br/>
     - check balance (manager)
     - select winner
     - check account of winner (ether would be deposited to his account)
+
+## lab 7
+- Learning Ganache,Truffle (VS Code)
+    - Credit Limit Program
+    - npm install -g truffle, truffle vscode extension
+    - download ganache (https://trufflesuite.com/ganache/)
+    - inside truffle folder - ( truffle init || npx truffle init )
+    - paste credit limit code inside contracts folder and do truffle compile
+    - see json file in build folder
+    - explore truffle-config.js
