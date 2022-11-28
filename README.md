@@ -29,7 +29,7 @@ Course - Blockchain Technology and Applications  <br/>
 - Sum in range program
 
 ## Lab 5
-- make your own cryptocurrency (open zeppelin and erc20 tokens used) and deploy it
+- making own ERC20 Tokens with open zeppelin (Cue Coins) and deploy it
     - configure your metamask and import your token by giving the contract address
     - send tokens from one account to another
  
